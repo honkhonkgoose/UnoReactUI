@@ -1,4 +1,4 @@
-# Project created for Grand Canyon University's Java Bootcamp December 2020 
+# Project created for Grand Canyon University's Java Bootcamp Anastasia Sullivan December 2020 
 ## Intended to be run in conjunction with https://github.com/honkhonkgoose/unoWebService.git
 
 # Getting Started with Create React App
